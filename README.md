@@ -42,6 +42,7 @@ assign f2=((~y&z)|(x&y)|(w&y));
 endmodule
 
 Developed by:Hemalatha.A
+
 RegisterNumber:24900150.
 
 
